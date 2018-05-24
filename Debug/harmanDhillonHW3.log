@@ -1,0 +1,6 @@
+﻿  maze.cpp
+p:\documents\cs 255\assignments\harmandhillonhw3\maze.cpp(48): warning C4018: '<': signed/unsigned mismatch
+p:\documents\cs 255\assignments\harmandhillonhw3\maze.cpp(67): warning C4715: 'findAStart': not all control paths return a value
+p:\documents\cs 255\assignments\harmandhillonhw3\maze.cpp(78): warning C4715: 'findAEnd': not all control paths return a value
+  harmanDhillonHW3.vcxproj -> P:\Documents\CS 255\Assignments\harmanDhillonHW3\Debug\harmanDhillonHW3.exe
+  harmanDhillonHW3.vcxproj -> P:\Documents\CS 255\Assignments\harmanDhillonHW3\Debug\harmanDhillonHW3.pdb (Partial PDB)
